@@ -1,4 +1,9 @@
 .logo {
-  height: 10em;
-  width: 10em;
+  height: 6em;
+  width: 6em;
+}
+
+.navItem {
+  display: inline-block;
+
 }
